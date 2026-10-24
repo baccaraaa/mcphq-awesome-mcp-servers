@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 423 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 424 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -810,6 +810,17 @@ Read and operate a Spinnaker instance through its Gate API: 37 tools for applica
 - Provider: Community
 - Official: no
 - Tags: spinnaker, continuous-delivery, devops
+- Category: Developer Tools and Code Intelligence
+
+### Tavero
+
+Scans a running React 19 app (Vite or Next.js) for UI drift in buttons, cards, colors, and spacing, and returns fixes with file and line references to the coding agent.
+
+- URL: https://github.com/baccaraaa/tavero
+- Language: TypeScript
+- Provider: Community
+- Official: no
+- Tags: react, ui-consistency, design-system, frontend
 - Category: Developer Tools and Code Intelligence
 
 ### UI Verify MCP Server
