@@ -3479,6 +3479,21 @@
     }
   },
   {
+    "name": "Tavero",
+    "url": "https://github.com/baccaraaa/tavero",
+    "description": "Scans a running React 19 app (Vite or Next.js) for UI drift in buttons, cards, colors, and spacing, and returns fixes with file and line references to the coding agent.",
+    "category": "developer-tools-and-code-intelligence",
+    "language": "TypeScript",
+    "provider": "Community",
+    "tags": [
+      "react",
+      "ui-consistency",
+      "design-system",
+      "frontend"
+    ],
+    "official": false
+  },
+  {
     "name": "Warden MCP",
     "url": "https://github.com/warden-protocol/warden-mcp",
     "description": "Remote MCP server for Warden Token Terminal: AI agents find tokens, quote swaps and trade onchain on Base, BNB Chain, Robinhood Chain and Arc within user-set limits.",
